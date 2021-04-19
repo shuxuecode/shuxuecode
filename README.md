@@ -1,6 +1,13 @@
 
 ## Hi ! Welcome to my github 😄
 
+
+
+[![zhaoshuxue github stats](https://github-readme-stats.vercel.app/api?username=zhaoshuxue)](//www.funimg.top)
+
+
+
+
 <!-- 
 ### Hi there 👋
  -->
