@@ -12,6 +12,9 @@
   <img src="https://profile-counter.glitch.me/shuxuecode/count.svg" />
 </p>
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shuxuecode&theme=dark&layout=compact)
+
+
 ### my
 
 <!-- 
