@@ -15,6 +15,31 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shuxuecode&theme=dark&layout=compact)
 
 
+<p align="center">
+  <strong>Check out my work below!</strong>
+  <br><br>
+  <a href="https://github.com/shuxuecode">
+    <img src="https://badges.pufler.dev/visits/shuxuecode/shuxuecode?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/shuxuecode">
+    <img src="https://badges.pufler.dev/years/shuxuecode?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/shuxuecode?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/shuxuecode?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://gist.github.com/shuxuecode">
+    <img src="https://badges.pufler.dev/gists/shuxuecode?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/shuxuecode">
+    <img src="https://badges.pufler.dev/commits/monthly/shuxuecode?style=flat-square&color=black&logo=github">
+  </a>
+</p>
+
+
+**Languages**
+
+<code></code>
+
 ### my emoji
 
 😋😛😜🤪😝
