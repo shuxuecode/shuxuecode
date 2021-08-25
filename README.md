@@ -2,9 +2,15 @@
 ## Hi ! Welcome to my github 😄
 
 
+<p align="center"> 
+  <a href="https://github.com/shuxuecode">
+    <img src="https://github-readme-stats.vercel.app/api?username=shuxuecode" alt="Mark Z github stats"/>
+  </a>
 
+<!-- &不能居中
 [![Mark Z github stats](https://github-readme-stats.vercel.app/api?username=shuxuecode)](//www.funimg.top)
-
+-->
+</p>
 
 
 <p align="center"> 
