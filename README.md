@@ -1,7 +1,4 @@
 
-## Hi ! Welcome to my github 😄
-
-
 <p align="center"> 
   <a href="https://github.com/shuxuecode">
     <img src="https://github-readme-stats.vercel.app/api?username=shuxuecode" alt="Mark Z github stats"/>
@@ -45,6 +42,10 @@
 **Languages**
 
 <code>Java</code>
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+
 
 ### my emoji
 
