@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: "0/5 * * * *"
+    - cron: "55 12,20-23 * * *"
 
 jobs:
   # This workflow contains a single job called "build"
