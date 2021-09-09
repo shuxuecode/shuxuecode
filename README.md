@@ -77,9 +77,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 September, 2021 - 08 September, 2021
+Last 7 days coding time :
 
-3 hrs 51 mins
+3 hrs 32 mins
 ```
 <!--END_SECTION:waka-->
 
