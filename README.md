@@ -77,7 +77,7 @@
 
 <!--START_SECTION:waka-->
 ```text
- Total coding time in the last 7 days :  1 hr 7 mins
+ Total coding time in the last 7 days :  1 hr 50 mins
 ```
 <!--END_SECTION:waka-->
 
