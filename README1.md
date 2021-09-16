@@ -1,8 +1,4 @@
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
 <p align="center"> 
   <a href="https://github.com/shuxuecode">
     <img src="https://github-readme-stats.vercel.app/api?username=shuxuecode" alt="Mark Z github stats"/>
@@ -34,12 +30,12 @@
   <a href="https://github.com/shuxuecode?tab=repositories">
     <img src="https://badges.pufler.dev/repos/shuxuecode?style=flat-square&color=black&logo=github">
   </a>
-  <!-- <a href="https://gist.github.com/shuxuecode">
+  <a href="https://gist.github.com/shuxuecode">
     <img src="https://badges.pufler.dev/gists/shuxuecode?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/shuxuecode">
     <img src="https://badges.pufler.dev/commits/monthly/shuxuecode?style=flat-square&color=black&logo=github">
-  </a> -->
+  </a>
 </p>
 
 
@@ -79,7 +75,11 @@
 😋😛😜🤪😝
 
 
-
+<!--START_SECTION:waka-->
+```text
+ Total coding time in the last 7 days :  3 hrs 12 mins
+```
+<!--END_SECTION:waka-->
 
 <!-- 
 ### Hi there 👋
