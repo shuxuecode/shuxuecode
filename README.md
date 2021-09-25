@@ -20,10 +20,10 @@
 </p>
 
 
-<center>
+<p align="center"> 
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shuxuecode&theme=dark&layout=compact)
-</center>
+</p>
 
 
 <p align="center">
