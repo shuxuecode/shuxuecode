@@ -22,7 +22,9 @@
 
 <p align="center"> 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shuxuecode&theme=dark&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuxuecode&theme=dark&layout=compact" alt="Most Used Languages"/>
+
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shuxuecode&theme=dark&layout=compact) -->
 </p>
 
 
