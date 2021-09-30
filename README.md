@@ -1,6 +1,6 @@
 
 <!--START_SECTION:waka-->
-<p align="center"><code>Total coding time in the last 7 days :  9 hrs 43 mins</code></p>
+<p align="center"><code>Total coding time in the last 7 days :  7 hrs 40 mins</code></p>
 <!--END_SECTION:waka-->
 
 <p align="center"> 
