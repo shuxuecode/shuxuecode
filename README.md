@@ -1,6 +1,26 @@
 
 <!--START_SECTION:waka-->
-
+2021-09-26
+ -- 
+33 mins
+2021-09-27
+ -- 
+29 mins
+2021-09-28
+ -- 
+1 hr 43 mins
+2021-09-29
+ -- 
+1 hr 3 mins
+2021-09-30
+ -- 
+1 hr 5 mins
+2021-10-01
+ -- 
+40 mins
+2021-10-02
+ -- 
+1 hr 7 mins
 <!--END_SECTION:waka-->
 
 <p align="center"> 
