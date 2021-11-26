@@ -14,7 +14,7 @@ on:
 jobs:
   # This workflow contains a single job called "build"
   update-wakatime:
-    name: test
+    name: 测试中文
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
