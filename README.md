@@ -26,7 +26,7 @@
 
 
 <!--START_SECTION:waka-->
-<table border="1" cellspacing="0" cellpadding="20" align="center"><tbody><tr align="center"><td colspan=7>Total coding time in the last 7 days : 9 hrs 15 mins</td></tr><tr><td>2021-12-05</td><td>2021-12-06</td><td>2021-12-07</td><td>2021-12-08</td><td>2021-12-09</td><td>2021-12-10</td><td>2021-12-11</td></tr><tr><td>40 mins</td><td>36 mins</td><td>42 mins</td><td>1 hr 4 mins</td><td>2 hrs 3 mins</td><td>2 hrs 40 mins</td><td>1 hr 28 mins</td></tr></tbody></table>
+<table border="1" cellspacing="0" cellpadding="20" align="center"><tbody><tr align="center"><td colspan=7>Total coding time in the last 7 days : 8 hrs 52 mins</td></tr><tr><td>2021-12-06</td><td>2021-12-07</td><td>2021-12-08</td><td>2021-12-09</td><td>2021-12-10</td><td>2021-12-11</td><td>2021-12-12</td></tr><tr><td>36 mins</td><td>42 mins</td><td>1 hr 4 mins</td><td>2 hrs 3 mins</td><td>2 hrs 40 mins</td><td>1 hr 28 mins</td><td>16 mins</td></tr></tbody></table>
 <!--END_SECTION:waka-->
 
 **Languages**
