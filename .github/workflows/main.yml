@@ -43,3 +43,12 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Full history calendar
+        uses: lowlighter/metrics@latest
+        with: 
+          filename: metrics.plugin.calendar.full.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
