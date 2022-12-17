@@ -75,7 +75,9 @@
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
+<!-- 
 ![历年提交记录](metrics.plugin.calendar.full.svg)
+ -->
 
 <!-- 
 ### Hi there 👋
