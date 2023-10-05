@@ -26,7 +26,7 @@
 
 
 <!--START_SECTION:waka-->
-<table border="1" cellspacing="0" cellpadding="20" align="center" style="border:1px solid #ccc;"><tbody><tr align="center"><td colspan=7>Total coding time in the last 7 days : 24 hrs 56 mins</td></tr><tr><td>Wed Sep 27th 2023</td><td>Thu Sep 28th 2023</td><td>Fri Sep 29th 2023</td><td>Sat Sep 30th 2023</td><td>Sun Oct 1st 2023</td><td>Mon Oct 2nd 2023</td><td>Tue Oct 3rd 2023</td></tr><tr><td>7 hrs 34 mins</td><td>7 hrs 26 mins</td><td>2 hrs 39 mins</td><td>2 hrs 12 mins</td><td>7 mins</td><td>33 mins</td><td>4 hrs 22 mins</td></tr></tbody></table>
+<table border="1" cellspacing="0" cellpadding="20" align="center" style="border:1px solid #ccc;"><tbody><tr align="center"><td colspan=7>Total coding time in the last 7 days : 17 hrs 21 mins</td></tr><tr><td>Thu Sep 28th 2023</td><td>Fri Sep 29th 2023</td><td>Sat Sep 30th 2023</td><td>Sun Oct 1st 2023</td><td>Mon Oct 2nd 2023</td><td>Tue Oct 3rd 2023</td><td>Wed Oct 4th 2023</td></tr><tr><td>7 hrs 26 mins</td><td>2 hrs 39 mins</td><td>2 hrs 12 mins</td><td>7 mins</td><td>33 mins</td><td>4 hrs 22 mins</td><td>0 secs</td></tr></tbody></table>
 <!--END_SECTION:waka-->
 
 **Languages**
