@@ -26,7 +26,7 @@
 
 
 <!--START_SECTION:waka-->
-<table border="1" cellspacing="0" cellpadding="20" align="center" style="border:1px solid #ccc;"><tbody><tr align="center"><td colspan=7>Total coding time in the last 7 days : 43 hrs 13 mins</td></tr><tr><td>Thu Jan 18th 2024</td><td>Fri Jan 19th 2024</td><td>Sat Jan 20th 2024</td><td>Sun Jan 21st 2024</td><td>Mon Jan 22nd 2024</td><td>Tue Jan 23rd 2024</td><td>Wed Jan 24th 2024</td></tr><tr><td>8 hrs 5 mins</td><td>7 hrs 28 mins</td><td>3 hrs 20 mins</td><td>51 mins</td><td>8 hrs 47 mins</td><td>8 hrs 37 mins</td><td>6 hrs 1 min</td></tr></tbody></table>
+<table border="1" cellspacing="0" cellpadding="20" align="center" style="border:1px solid #ccc;"><tbody><tr align="center"><td colspan=7>Total coding time in the last 7 days : 41 hrs 58 mins</td></tr><tr><td>Fri Jan 19th 2024</td><td>Sat Jan 20th 2024</td><td>Sun Jan 21st 2024</td><td>Mon Jan 22nd 2024</td><td>Tue Jan 23rd 2024</td><td>Wed Jan 24th 2024</td><td>Thu Jan 25th 2024</td></tr><tr><td>7 hrs 28 mins</td><td>3 hrs 20 mins</td><td>51 mins</td><td>8 hrs 47 mins</td><td>8 hrs 37 mins</td><td>6 hrs 1 min</td><td>6 hrs 50 mins</td></tr></tbody></table>
 <!--END_SECTION:waka-->
 
 **Languages**
