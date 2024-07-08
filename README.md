@@ -2,7 +2,7 @@
 
 <p align="center"> 
   <a href="https://github.com/shuxuecode">
-    <img src="https://github-readme-stats.vercel.app/api?username=shuxuecode" alt="Mark Z github stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=shuxuecode&show_icons=true" alt="Mark Z github stats"/>
   </a>
 
 <!-- &不能居中
