@@ -26,7 +26,7 @@
 
 
 <!--START_SECTION:waka-->
-<table border="1" cellspacing="0" cellpadding="20" align="center" style="border:1px solid #ccc;"><tbody><tr align="center"><td colspan=7>Total coding time in the last 7 days : 26 hrs 53 mins</td></tr><tr><td>3月25号 <br> 星期二</td><td>3月26号 <br> 星期三</td><td>3月27号 <br> 星期四</td><td>3月28号 <br> 星期五</td><td>3月29号 <br> 星期六</td><td>3月30号 <br> 星期日</td><td>3月31号 <br> 星期一</td></tr><tr><td>0 secs</td><td>4 hrs 50 mins</td><td>6 hrs 1 min</td><td>5 hrs 6 mins</td><td>0 secs</td><td>3 hrs 30 mins</td><td>7 hrs 24 mins</td></tr></tbody></table>
+<table border="1" cellspacing="0" cellpadding="20" align="center" style="border:1px solid #ccc;"><tbody><tr align="center"><td colspan=7>Total coding time in the last 7 days : 35 hrs 40 mins</td></tr><tr><td>3月26号 <br> 星期三</td><td>3月27号 <br> 星期四</td><td>3月28号 <br> 星期五</td><td>3月29号 <br> 星期六</td><td>3月30号 <br> 星期日</td><td>3月31号 <br> 星期一</td><td>4月1号 <br> 星期二</td></tr><tr><td>4 hrs 50 mins</td><td>6 hrs 1 min</td><td>5 hrs 6 mins</td><td>0 secs</td><td>3 hrs 30 mins</td><td>7 hrs 24 mins</td><td>8 hrs 47 mins</td></tr></tbody></table>
 <!--END_SECTION:waka-->
 
 **Languages**
