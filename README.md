@@ -33,12 +33,14 @@
 
 <!-- <code>Java</code> -->
 
-<img src="https://iconic-api.onrender.com/light/java" width="64px" />
-<img src="https://iconic-api.onrender.com/light/js" width="64px" />
-<img src="https://iconic-api.onrender.com/light/html" width="64px" />
-<img src="https://iconic-api.onrender.com/light/python" width="64px" />
-<img src="https://iconic-api.onrender.com/light/vue" width="64px" />
-<img src="https://iconic-api.onrender.com/light/go" width="64px" />
+![Java](https://iconic-api.onrender.com/light/java)
+![JavaScript](https://iconic-api.onrender.com/light/js)
+![Html](https://iconic-api.onrender.com/light/html)
+![Python](https://iconic-api.onrender.com/light/python)
+![Vue](https://iconic-api.onrender.com/light/vue)
+![Go](https://iconic-api.onrender.com/light/go)
+
+
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -49,19 +51,19 @@
 
 **Tools**
 
-<img src="https://iconic-api.onrender.com/light/chatgpt" width="64px" />
-<img src="https://iconic-api.onrender.com/light/deepseek" width="64px" />
-<img src="https://iconic-api.onrender.com/light/docker" width="64px" />
-<img src="https://iconic-api.onrender.com/light/git" width="64px" />
-<img src="https://iconic-api.onrender.com/light/intellij" width="64px" />
-<img src="https://iconic-api.onrender.com/light/linux" width="64px" />
-<img src="https://iconic-api.onrender.com/light/markdown" width="64px" />
-<img src="https://iconic-api.onrender.com/light/redis" width="64px" />
-<img src="https://iconic-api.onrender.com/light/ubuntu" width="64px" />
-<img src="https://iconic-api.onrender.com/light/vim" width="64px" />
-<img src="https://iconic-api.onrender.com/light/vscode" width="64px" />
-<img src="https://iconic-api.onrender.com/light/windows" width="64px" />
-<img src="https://iconic-api.onrender.com/light/zed" width="64px" />
+![](https://iconic-api.onrender.com/light/chatgpt)
+![](https://iconic-api.onrender.com/light/deepseek)
+![](https://iconic-api.onrender.com/light/docker)
+![](https://iconic-api.onrender.com/light/git)
+![](https://iconic-api.onrender.com/light/intellij)
+![](https://iconic-api.onrender.com/light/linux)
+![](https://iconic-api.onrender.com/light/markdown)
+![](https://iconic-api.onrender.com/light/redis)
+![](https://iconic-api.onrender.com/light/ubuntu)
+![](https://iconic-api.onrender.com/light/vim)
+![](https://iconic-api.onrender.com/light/vscode)
+![](https://iconic-api.onrender.com/light/windows)
+![](https://iconic-api.onrender.com/light/zed)
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
