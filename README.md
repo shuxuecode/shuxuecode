@@ -1,9 +1,11 @@
 
 
 <p align="center"> 
+<!--
   <a href="https://github.com/shuxuecode">
     <img src="https://github-readme-stats.vercel.app/api?username=shuxuecode&show_icons=true" alt="Mark Z github stats"/>
   </a>
+-->
 
 <!-- &不能居中
 [![Mark Z github stats](https://github-readme-stats.vercel.app/api?username=shuxuecode)](//www.funimg.top)
@@ -11,23 +13,21 @@
 </p>
 
 
+<!--
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/shuxuecode/count.svg" />
 </p>
-
+-->
 
 <p align="center"> 
-
+<!--
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuxuecode&theme=dark&layout=compact" alt="Most Used Languages"/>
+-->
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shuxuecode&theme=dark&layout=compact) -->
 </p>
 
-
-<!--START_SECTION:waka-->
-<table border="1" cellspacing="0" cellpadding="20" align="center" style="border:1px solid #ccc;"><tbody><tr align="center"><td colspan=7>Total coding time in the last 7 days : 48 hrs 4 mins</td></tr><tr><td>7月27号 <br> 星期一</td><td>7月28号 <br> 星期二</td><td>7月29号 <br> 星期三</td><td>7月30号 <br> 星期四</td><td>7月31号 <br> 星期五</td><td>8月1号 <br> 星期六</td><td>8月2号 <br> 星期日</td></tr><tr><td>9 hrs 1 min</td><td>8 hrs 21 mins</td><td>9 hrs 35 mins</td><td>7 hrs 17 mins</td><td>9 hrs 44 mins</td><td>2 hrs 59 mins</td><td>1 hr 3 mins</td></tr></tbody></table>
-<!--END_SECTION:waka-->
 
 **Languages**
 
@@ -67,6 +67,13 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ![Cursor](https://img.shields.io/badge/Cursor-blue)
+
+
+<!--START_SECTION:waka-->
+<table border="1" cellspacing="0" cellpadding="20" align="center" style="border:1px solid #ccc;"><tbody><tr align="center"><td colspan=7>Total coding time in the last 7 days : 48 hrs 4 mins</td></tr><tr><td>7月27号 <br> 星期一</td><td>7月28号 <br> 星期二</td><td>7月29号
+ <br> 星期三</td><td>7月30号 <br> 星期四</td><td>7月31号 <br> 星期五</td><td>8月1号 <br> 星期六</td><td>8月2号 <br> 星期日</td></tr><tr><td>9 hrs 1 min</td><td>8 hrs 21 mins</td><td>9 hrs 35 mins</td><td>7 hrs 17 mins</td><td>9 hrs 44 mins</td><td>2 hrs 59 mins</td><td>1 hr 3 mins</td></tr></tbody></table>
+<!--END_SECTION:waka-->
+
 
 
 ### my emoji
