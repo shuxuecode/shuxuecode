@@ -70,7 +70,7 @@
 
 
 <!--START_SECTION:waka-->
-<table border="1" cellspacing="0" cellpadding="20" align="center" style="border:1px solid #ccc;"><tbody><tr align="center"><td colspan=7>Total coding time in the last 7 days : 50 hrs 1 min</td></tr><tr><td>10月18号 <br> 星期日</td><td>10月19号 <br> 星期一</td><td>10月20号 <br> 星期二</td><td>10月21号 <br> 星期三</td><td>10月22号 <br> 星期四</td><td>10月23号 <br> 星期五</td><td>10月24号 <br> 星期六</td></tr><tr><td>5 hrs 7 mins</td><td>8 hrs 16 mins</td><td>9 hrs 16 mins</td><td>10 hrs 15 mins</td><td>8 hrs 31 mins</td><td>7 hrs 53 mins</td><td>40 mins</td></tr></tbody></table>
+<table border="1" cellspacing="0" cellpadding="20" align="center" style="border:1px solid #ccc;"><tbody><tr align="center"><td colspan=7>Total coding time in the last 7 days : 49 hrs 22 mins</td></tr><tr><td>10月19号 <br> 星期一</td><td>10月20号 <br> 星期二</td><td>10月21号 <br> 星期三</td><td>10月22号 <br> 星期四</td><td>10月23号 <br> 星期五</td><td>10月24号 <br> 星期六</td><td>10月25号 <br> 星期日</td></tr><tr><td>8 hrs 16 mins</td><td>9 hrs 16 mins</td><td>10 hrs 15 mins</td><td>8 hrs 31 mins</td><td>8 hrs 21 mins</td><td>40 mins</td><td>3 hrs 59 mins</td></tr></tbody></table>
 <!--END_SECTION:waka-->
 
 
